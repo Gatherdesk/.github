@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Gatherdesk — Every enquiry. Handled, together." width="100%">
+<a href="https://gatherdesk.app"><img src="assets/banner.png" alt="Gatherdesk — Every enquiry. Handled, together." width="100%"></a>
 
 <br><br>
 
@@ -32,7 +32,7 @@ Every enquiry gets **one clear owner**, so nothing sits unanswered and two
 people never reply to the same customer.
 
 <div align="center">
-<img src="assets/pool.png" alt="The shared Booking Pool: unassigned enquiries, each claimable by one person" width="92%">
+<a href="https://gatherdesk.app"><img src="assets/pool.png" alt="The shared Booking Pool: unassigned enquiries, each claimable by one person" width="92%"></a>
 </div>
 
 <br>
@@ -45,7 +45,7 @@ Claim an enquiry and it's yours. The whole conversation stays in one place —
 your team can see who owns it, and the customer just gets an answer.
 
 <div align="center">
-<img src="assets/conversation.png" alt="A website conversation answered from inside Gatherdesk" width="92%">
+<a href="https://gatherdesk.app"><img src="assets/conversation.png" alt="A website conversation answered from inside Gatherdesk" width="92%"></a>
 </div>
 
 <br>
@@ -58,7 +58,7 @@ Add a chat widget to your site, connect a mailbox, bring your own WhatsApp
 Business number. Turn on what you need and leave the rest off.
 
 <div align="center">
-<img src="assets/channels.png" alt="Website chat settings inside a Gatherdesk workspace" width="92%">
+<a href="https://gatherdesk.app/docs"><img src="assets/channels.png" alt="Website chat settings inside a Gatherdesk workspace" width="92%"></a>
 </div>
 
 <br>
@@ -68,6 +68,7 @@ Business number. Turn on what you need and leave the rest off.
 ## It speaks your trade
 
 Same system, your words — not travel's, and not generic CRM jargon.
+**[See your industry →](https://gatherdesk.app/solutions)**
 
 <div align="center">
 
@@ -92,7 +93,7 @@ Same system, your words — not travel's, and not generic CRM jargon.
 
 <div align="center">
 
-<img src="assets/mark.png" alt="" width="64">
+<a href="https://gatherdesk.app/pricing"><img src="assets/mark.png" alt="" width="64"></a>
 
 ### One shared place. A team in control.
 
