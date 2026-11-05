@@ -15,6 +15,10 @@ in the words your industry actually uses.
 [![Pricing](https://img.shields.io/badge/Pricing-11162A?style=for-the-badge)](https://gatherdesk.app/pricing)
 [![Start free](https://img.shields.io/badge/Start_free-16A34A?style=for-the-badge)](https://gatherdesk.app/pricing)
 
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://gatherdesk.app/download)
+[![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://gatherdesk.app/download)
+[![iPhone](https://img.shields.io/badge/iPhone-11162A?style=for-the-badge&logo=apple&logoColor=white)](https://gatherdesk.app/download)
+
 </div>
 
 <br>
