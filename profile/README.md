@@ -98,6 +98,7 @@ Same system, your words — not travel's, and not generic CRM jargon.
 <br>
 
 **Also on your phone and desktop**
+
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://gatherdesk.app/download)
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://gatherdesk.app/download)
 [![iPhone](https://img.shields.io/badge/iPhone-11162A?style=for-the-badge&logo=apple&logoColor=white)](https://gatherdesk.app/download)
