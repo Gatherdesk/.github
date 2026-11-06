@@ -1,0 +1,103 @@
+{
+  "brand": "Gatherdesk",
+  "format": "Instagram image Stories",
+  "date": "2026-11-06",
+  "images": [
+    {
+      "order": 1,
+      "file": "01-start-here-1080x1920.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 132260,
+      "sha256": "3f9dab980a0a337ff5c772345411e06935b673b710a882a790dc821b3af21d00"
+    },
+    {
+      "order": 2,
+      "file": "02-start-here-1080x1920.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 129791,
+      "sha256": "bce73d676e7f3c35bca9cd2ba82980e5c0d199fcd50efddab97cef4a59d4f704"
+    },
+    {
+      "order": 3,
+      "file": "03-start-here-1080x1920.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 182595,
+      "sha256": "ec75302fb3e9be278fb7d739b79a6cf2160671ef90813382fff41e06542e8327"
+    },
+    {
+      "order": 4,
+      "file": "04-start-here-1080x1920.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 124084,
+      "sha256": "7d36a10deae8c3371c32126f89589a4cc06b1c506d623938f0d2251810b0507d"
+    },
+    {
+      "order": 5,
+      "file": "05-start-here-1080x1920.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 128381,
+      "sha256": "51ab91eb6c84348a8cc2cc73524eaa301f171a4550196c4cac92d31d288d5d27"
+    },
+    {
+      "order": 6,
+      "file": "06-start-here-1080x1920.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 142489,
+      "sha256": "45bbc2494f844fc0ceaefb2d9c1a2a87a5e0d5f93d8c7e0714080390f0b6381f"
+    },
+    {
+      "order": 7,
+      "file": "07-start-here-1080x1920.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 121690,
+      "sha256": "7b5ca9aea5b02b4f7c0a60cf1e43a8864cbf561608a1b1d9ab192f59e83fd993"
+    },
+    {
+      "order": 8,
+      "file": "08-start-here-1080x1920.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 145179,
+      "sha256": "ebd57c709b9989f0b268e6d2a45eb7c606f8eaa146b88e0f5973773c7b65a439"
+    },
+    {
+      "order": 9,
+      "file": "09-start-here-1080x1920.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 155265,
+      "sha256": "487faf7d10fd240eef674652dd3f802823f2b41b5265a1097fcdc5dbf69b60d4"
+    },
+    {
+      "order": 10,
+      "file": "10-start-here-1080x1920.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 126458,
+      "sha256": "60f7c54a6cd17d55e71236ee514fdbf4f8a09ebd3b36495637470a55b682d1ae"
+    },
+    {
+      "order": 11,
+      "file": "11-start-here-1080x1920.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 110777,
+      "sha256": "1bef763cc8f131644f28175f5193c05222fc6398455df3fee1db60123d4fd419"
+    },
+    {
+      "order": 12,
+      "file": "12-start-here-1080x1920.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 116174,
+      "sha256": "51b5b8edf499ca36a185d39802d60aedf0e3e0eb4478999bc3648a028b8e1143"
+    }
+  ]
+}
