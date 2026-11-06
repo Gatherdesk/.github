@@ -1,0 +1,61 @@
+{
+  "brand": "Gatherdesk",
+  "platform": "linkedin",
+  "date": "2026-11-06",
+  "images": [
+    {
+      "order": 1,
+      "file": "01-launch-1200x1200.png",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 423211,
+      "sha256": "6d90b2c863a93c2f86cf0da1354e4a92dc22747b89f60504a8a6c64a3645290c",
+      "alt": "Gatherdesk launch graphic: “Every enquiry. Handled, together.” A floating navy app tile with the white Gatherdesk g sits beside Email, WhatsApp and Web chat labels."
+    },
+    {
+      "order": 2,
+      "file": "02-one-booking-pool-1200x1200.png",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 128455,
+      "sha256": "34546730c6203c28f8acbedab4ade272a25f99809acb2f1d3f7600ee38cb34da",
+      "alt": "Navy Gatherdesk graphic with Email, WhatsApp and Web chat flowing into an illustrated Booking Pool containing three fictional enquiries and Claim actions."
+    },
+    {
+      "order": 3,
+      "file": "03-clear-ownership-1200x1200.png",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 121269,
+      "sha256": "5ed0017e01fa54e88beeac631367a49c62024e4e76b1d2dd5d8608805fad79a8",
+      "alt": "Gatherdesk ownership graphic with an illustrated enquiry card, a claim confirmation and an assignment handoff. The headline reads “Claim it. Own it. Move it forward.”"
+    },
+    {
+      "order": 4,
+      "file": "04-ai-human-takeover-1200x1200.png",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 115690,
+      "sha256": "de67aac75d5ed5cadb86142abc0776c2238260d33f968fbab6730ec85409abdf",
+      "alt": "Lavender Gatherdesk graphic illustrating a website visitor, an optional AI welcome and a team member claiming the enquiry. An AI paused label marks human takeover."
+    },
+    {
+      "order": 5,
+      "file": "05-windows-desktop-1200x1200.png",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 191671,
+      "sha256": "84079d9db4ac69f9ce3033b586d6646044885d289cce729a3998cda9b151d3c4",
+      "alt": "Gatherdesk for Windows graphic with an illustrated desktop application showing Booking Pool, conversation history and a reply composer. A native notification card announces a new message. Windows x64 preview."
+    },
+    {
+      "order": 6,
+      "file": "06-android-mobile-1200x1200.png",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 251602,
+      "sha256": "4e56f3630ab44f2bc17614cdf909c24471b5bb4af40b608f2a18d92765879c54",
+      "alt": "Gatherdesk for Android graphic with an illustrated phone showing a fictional customer conversation, reply composer and Pool, Mine, Team and Account tabs. Android preview."
+    }
+  ]
+}
